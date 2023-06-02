@@ -1,6 +1,8 @@
-# wheather
+# Wheather App : 
 
-A new Flutter project.
+A new Flutter project which is based on fetching live wheather data through name of city .
+I am using geolocator package for getting the langitude and longitude and with the help of this we can get the temparature on any city.
+
 
 ## Getting Started
 
